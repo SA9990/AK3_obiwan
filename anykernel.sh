@@ -7,7 +7,7 @@ properties() { '
 kernel.string=Asus_Rog_Phone_3
 do.devicecheck=0
 do.modules=1
-do.systemless=1
+do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=
